@@ -8,6 +8,7 @@
     <artifactId>skrapeit-parent</artifactId>
     <version>0.1.0</version>
 
+    <name>skrape{it} parent</name>
     <description>
         Parent pom for skrape{it} projects.
         For internal use to reduce maven boilerplate only.
